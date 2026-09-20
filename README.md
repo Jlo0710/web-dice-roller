@@ -9,5 +9,9 @@ Yahtzee is played by rolling five six-sided dice and trying to land scoring comb
 
 Once you open the page, it rolls all five dice at once. From there, you can press **Roll Dice** to roll again as many times as you want. 
 
+## Credit to AI
+
+I did end up using claude for the CSS style, it helped a lot and also really made it visually pleasing. I also had to use it for the dice animation and everything. Overall though I had no issue with claude, it really helped a lot, especially understanding what certain things did.
+
 ## Author
 Jesse Lopez - Software Engineering
